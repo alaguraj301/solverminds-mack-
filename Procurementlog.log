@@ -1,0 +1,77 @@
+2021-01-11 01:26:56,410 INFO  [Log] 
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+                                        EXECUTION STARTS
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-01-11 01:26:56,410 INFO  [Log] TS_Execution
+ 
+2021-01-11 01:26:56,410 INFO  [Log] Test Scenario ID: TS_05 
+2021-01-11 01:26:56,410 INFO  [Log] Test Scenario   : Check Budget Calculation 
+2021-01-11 01:26:56,410 INFO  [Log] Run Mode        : Yes 
+2021-01-11 01:26:56,427 INFO  [Log] Executing Sheet : Sheet2 
+2021-01-11 01:26:56,427 INFO  [Log] Total No of rows in the Sheet2: 8
+ 
+2021-01-11 01:26:56,427 INFO  [Log] TC ID--------------->> Scenario 
+2021-01-11 01:26:56,427 INFO  [Log] TC Steps------------>> Scenario 
+2021-01-11 01:26:56,427 INFO  [Log] Method-------------->> Report_Scenario 
+2021-01-11 01:26:56,431 INFO  [Log] RESULT-------------->> PASS
+ 
+2021-01-11 01:26:56,431 INFO  [Log] TC ID--------------->> Open browser 
+2021-01-11 01:26:56,431 INFO  [Log] TC Steps------------>> Open browser 
+2021-01-11 01:26:56,431 INFO  [Log] Method-------------->> open_browser 
+2021-01-11 01:26:56,431 INFO  [Log] Locator Type/Value-->> Chrome 
+2021-01-11 01:27:02,208 INFO  [Log] RESULT-------------->> PASS
+ 
+2021-01-11 01:27:02,208 INFO  [Log] TC Steps------------>> Delete_Cookies 
+2021-01-11 01:27:02,208 INFO  [Log] Method-------------->> Delete_Cookies 
+2021-01-11 01:27:02,214 INFO  [Log] RESULT-------------->> PASS
+ 
+2021-01-11 01:27:02,214 INFO  [Log] TC Steps------------>> scenario 
+2021-01-11 01:27:02,214 INFO  [Log] Method-------------->> scenario 
+2021-01-11 01:27:02,214 INFO  [Log] Locator Type/Value-->> *********************************************************************************************checking attachment Fnctionlaity ********************************************************************************************************************************************** 
+2021-01-11 01:27:02,214 INFO  [Log] RESULT-------------->> PASS
+ 
+2021-01-11 01:27:02,214 INFO  [Log] TC Steps------------>> Enter URL 
+2021-01-11 01:27:02,214 INFO  [Log] Method-------------->> enterURL 
+2021-01-11 01:27:02,214 INFO  [Log] Locator Type/Value-->> https://socstageshore.solverminds.net/main 
+2021-01-11 01:27:04,186 INFO  [Log] RESULT-------------->> PASS
+ 
+2021-01-11 01:27:04,186 INFO  [Log] TC Steps------------>> Enter valid username(Chief Officer) 
+2021-01-11 01:27:04,186 INFO  [Log] Method-------------->> sendkey 
+2021-01-11 01:27:04,186 INFO  [Log] Locator Type/Value-->> xpath 
+2021-01-11 01:27:04,186 INFO  [Log] Locator Type/Value-->> //*[@id="NFR_LoginForm-nfr_login_authname"] 
+2021-01-11 01:27:04,186 INFO  [Log] Locator Type/Value-->> svmadmin 
+2021-01-11 01:27:04,328 INFO  [Log] RESULT-------------->> PASS
+ 
+2021-01-11 01:27:04,328 INFO  [Log] TC Steps------------>> Enter Valid password 
+2021-01-11 01:27:04,328 INFO  [Log] Method-------------->> sendkey 
+2021-01-11 01:27:04,328 INFO  [Log] Locator Type/Value-->> xpath 
+2021-01-11 01:27:04,328 INFO  [Log] Locator Type/Value-->> //*[@id="NFR_LoginForm-nfr_login_authid"] 
+2021-01-11 01:27:04,328 INFO  [Log] Locator Type/Value-->> r@L6AwKT?ZqKdb 
+2021-01-11 01:27:04,453 INFO  [Log] RESULT-------------->> PASS
+ 
+2021-01-11 01:27:14,430 INFO  [Log] 
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+EXECUTION ENDED
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-01-11 01:28:41,652 INFO  [Log] 
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+                                        EXECUTION STARTS
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-01-11 01:28:41,652 INFO  [Log] TS_Execution
+ 
+2021-01-11 01:28:41,652 INFO  [Log] Test Scenario ID: TS_05 
+2021-01-11 01:28:41,652 INFO  [Log] Test Scenario   : Check Budget Calculation 
+2021-01-11 01:28:41,653 INFO  [Log] Run Mode        : Yes 
+2021-01-11 01:28:41,669 INFO  [Log] Executing Sheet : Sheet2 
+2021-01-11 01:28:41,669 INFO  [Log] Total No of rows in the Sheet2: 8
+ 
+2021-01-11 01:28:41,669 INFO  [Log] TC ID--------------->> Scenario 
+2021-01-11 01:28:41,669 INFO  [Log] TC Steps------------>> Scenario 
+2021-01-11 01:28:41,669 INFO  [Log] Method-------------->> Report_Scenario 
+2021-01-11 01:28:41,673 INFO  [Log] RESULT-------------->> PASS
+ 
+2021-01-11 01:28:41,673 INFO  [Log] TC ID--------------->> Open browser 
+2021-01-11 01:28:41,673 INFO  [Log] TC Steps------------>> Open browser 
+2021-01-11 01:28:41,673 INFO  [Log] Method-------------->> open_browser 
+2021-01-11 01:28:41,673 INFO  [Log] Locator Type/Value-->> Chrome 

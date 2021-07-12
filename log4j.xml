@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE log4j:configuration SYSTEM 
+          "https://logging.apache.org/log4j/1.2/apidocs/org/apache/log4j/xml/doc-files/log4j.dtd">
+
+<log4j:configuration debug="false" xmlns:log4j="http://jakarta.apache.org/log4j/">
+
+
+<appender class="org.apache.log4j.FileAppender" name="fileAppender">
+
+<param name="Threshold" value="INFO"/>
+
+<param name="File" value="logfile.log"/>
+
+
+<layout class="org.apache.log4j.PatternLayout">
+
+<param name="ConversionPattern" value="%d %-5p [%c{1}] %m %n"/>
+
+</layout>
+
+</appender>
+
+
+<root>
+
+<level value="INFO"/>
+
+<appender-ref ref="fileAppender"/>
+
+</root>
+
+</log4j:configuration>
